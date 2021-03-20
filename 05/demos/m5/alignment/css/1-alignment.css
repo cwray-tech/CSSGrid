@@ -6,4 +6,10 @@ body {
 body {
     display: grid;
     grid: auto-flow 5em / 5em 5em 5em 5em;
+    align-content: center;
+    justify-content: center;
+}
+
+#special-one {
+    justify-self: center;
 }

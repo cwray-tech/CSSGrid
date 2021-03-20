@@ -6,7 +6,7 @@ body {
 body {
     display: grid;
     grid: auto-flow 5em / 5em 5em 5em 5em;
-    justify-content: center;
+    justify-content: space-around;
     align-content: center;
 }
 

@@ -1,6 +1,7 @@
 body {
     display: grid;
     grid: auto-flow minmax(min-content, 6em) / repeat(4, 10em);
+    
 }
 
 #item2 {
